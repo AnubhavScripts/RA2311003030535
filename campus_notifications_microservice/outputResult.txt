@@ -1,0 +1,42 @@
+Top 10 Priority Notifications
+
+1. [Placement] Marvell Technology Inc. hiring
+   ID: b3379243-531a-4ab0-bff0-340a4fb5d151
+   Timestamp: 2026-05-02 05:23:27
+
+2. [Placement] Amazon.com Inc. hiring
+   ID: a490f9b9-c75d-4ea0-bbf5-c90dfc51f5db
+   Timestamp: 2026-05-02 01:22:27
+
+3. [Placement] Meta Platforms Inc. hiring
+   ID: 74d4283e-af4d-4b1d-84a0-8b8c0989e33a
+   Timestamp: 2026-05-02 00:23:51
+
+4. [Placement] Nvidia Corporation hiring
+   ID: c7e47490-e7ea-4098-aa3e-cf00833ae843
+   Timestamp: 2026-05-01 19:53:45
+
+5. [Placement] Alphabet Inc. Class C hiring
+   ID: 60bc1398-f3f4-4c24-bbc3-5ab5a8417874
+   Timestamp: 2026-05-01 18:22:03
+
+6. [Placement] Meta Platforms Inc. hiring
+   ID: 41173fb7-9205-4f9c-8de0-6f6bc09005cf
+   Timestamp: 2026-05-01 12:23:15
+
+7. [Placement] PayPal Holdings Inc. hiring
+   ID: b4891e6f-1685-44c4-87b5-35f1574e6685
+   Timestamp: 2026-05-01 10:52:21
+
+8. [Result] external
+   ID: 00efe3fc-7ecf-4c15-973b-a097bae4df9e
+   Timestamp: 2026-05-02 04:21:57
+
+9. [Result] project-review
+   ID: 2798bfff-0625-4d28-b9db-7154502e5e47
+   Timestamp: 2026-05-02 01:52:57
+
+10. [Result] project-review
+   ID: 8d8d3a1a-69a9-477d-86e1-2aba57903753
+   Timestamp: 2026-05-02 01:23:33
+

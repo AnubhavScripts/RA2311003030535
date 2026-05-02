@@ -1,4 +1,4 @@
-require("dotenv").config({ path: require("path").resolve(__dirname, "../.env") });
+require("dotenv").config({ path: require("path").resolve(__dirname, "../.env"), quiet: true });
 const express = require("express");
 const axios = require("axios");
 const loggingMiddleware = require("../src/middleware/logging");

@@ -10,7 +10,7 @@ app.use(express.json());
 app.use(loggingMiddleware);
 
 app.get("/", async (req, res) => {
-  await Log("backend", "info", "controller", "Health check passed - server is reachable and responding on GET /");
+  await Log("backend", "info", "controller", "Health check passed - server is reachable and responding on GET ");
   res.send("Working");
 });
 
